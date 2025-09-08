@@ -1,3 +1,13 @@
+# 日本語話者向けメッセージ
+
+ここはPlurality本(*Plurality: The Future of Collaborative Technology and Democracy* by Audrey Tang, E. Glen Weyl and the Plurality Community)の公式和訳リポジトリです。
+
+Plurality本の和訳はサイボウズ式ブックスから2025年5月に出版されました。([公式サイト](https://cybozushiki.cybozu.co.jp/books/plurality/)) 
+
+このリポジトリでは翻訳された原稿や図版をCC-0ライセンスで公開しています。`contents/japanese`ディレクトリに入っています。質問などがあれば[読者コミュニティ](https://scrapbox.io/plurality-japanese/%E5%92%8C%E8%A8%B3%E5%85%AC%E5%BC%8F%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)にどうぞ。
+
+
+# Original README
 ReadMe for *Plurality: The Future of Collaborative Technology and Democracy* by Audrey Tang, E. Glen Weyl and the Plurality Community
 
 Welcome to *Plurality*, an open, git-based collaborative book project that aims to offer a vision for the future of technology focused around empowering and bridging social difference.  While we have outlined the substance of the book elsewhere (see https://www.plurality.net), the purpose of this ReadMe is to provide an overview of the collaboration that will help create the book aimed at those who will participate in doing so.
